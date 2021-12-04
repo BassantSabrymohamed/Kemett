@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "51478814167",
+    "project_id": "kemet-72c0c",
+    "storage_bucket": "kemet-72c0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51478814167:android:fab04f754dad2064487f92",
+        "android_client_info": {
+          "package_name": "com.example.kemet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51478814167-c4b1i863u0t2abgtll2anh3c2t90vi79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRKnDW9L1PdVnQE1A2UY5QLznhxMOmAGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51478814167-c4b1i863u0t2abgtll2anh3c2t90vi79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
